@@ -9,3 +9,4 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31jw4diqt7mk2km43mv7nd6dawgu&width=495)
 
+![](https://komarev.com/ghpvc/?username=S4mm4ael&color=blueviolet&style=for-the-badge)
