@@ -1,12 +1,38 @@
-### Hi there 👋
+# Andrey Fedotov - Frontend developer
 
-- 🔭 I’m currently working on RSschool learning program
-- 🌱 I’m currently learning TypeScript
+Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP.
+[CV page](https://s4mm4ael.github.io/rsschool-cv/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mm4ael&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Recent projects
+* [News Portal](https://thelastandrew.github.io/migration-to-ts/) | [source code]()
+* [Conway's game of Life](https://thelastandrew.github.io/game-of-life/) | [source code]()
+* [Memory game](https://thelastandrew.github.io/memory-game/) | [source code]()
+* [Random Jokes](https://thelastandrew.github.io/random-jokes/) | [source code]()
+* [Audio Player](https://thelastandrew.github.io/audio-player/) | [source code]()
+* [Shelter](https://thelastandrew.github.io/shelter/pages/main/) | [source code]()
+* 
+---
+## Skills
+![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+---
+## Soft skills
+* ⚒️ Hard working
+* 🤝🏼 Communicable
+* 🤓 Curious
+* 🚭 No bad habits
+* 
+---
+## Education
+- **Sept 2021** [freeCodeCamp.org](https://www.freecodecamp.org/) | [Certificate](https://www.freecodecamp.org/certification/fcce97f825b-fcd3-4c69-a35c-9f3f005c06e3/responsive-web-design)</br>
+- **Dec 2021 - March 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate]([https://app.rs.school/certificate/1pasast8](https://app.rs.school/certificate/2dyswcow))</br>
+- **March 2022 - September 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate]([https://app.rs.school/certificate/28bkk1n9](https://app.rs.school/certificate/pkyem0t4))</br>
+- **September 2022 - Current time** [RS School React](https://rs.school/react/)
+---
+## Work Experience
+I'm here to get one!
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31jw4diqt7mk2km43mv7nd6dawgu&width=495)
-
-![](https://komarev.com/ghpvc/?username=S4mm4ael&color=blueviolet&style=for-the-badge)
+---
+## Contacts
+* Telegram: @defaultsam
+* E-mail: homer1996@gmail.com
