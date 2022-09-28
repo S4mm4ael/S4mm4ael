@@ -1,4 +1,4 @@
-# Andrey Fedotov - Frontend developer
+# Semion Krapivin 
 
 Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP.
 [CV page](https://s4mm4ael.github.io/rsschool-cv/)
