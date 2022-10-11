@@ -1,16 +1,12 @@
 # Semion Krapivin 
 
 Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP.
+
 [CV page](https://s4mm4ael.github.io/rsschool-cv/)
 
 ## Recent projects
 * [News Portal](https://thelastandrew.github.io/migration-to-ts/) | [source code]()
-* [Conway's game of Life](https://thelastandrew.github.io/game-of-life/) | [source code]()
-* [Memory game](https://thelastandrew.github.io/memory-game/) | [source code]()
-* [Random Jokes](https://thelastandrew.github.io/random-jokes/) | [source code]()
-* [Audio Player](https://thelastandrew.github.io/audio-player/) | [source code]()
-* [Shelter](https://thelastandrew.github.io/shelter/pages/main/) | [source code]()
-* 
+ 
 ---
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png)
@@ -24,8 +20,8 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 * 
 ---
 ## Education
-- **Dec 2021 - March 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate]([https://app.rs.school/certificate/1pasast8](https://app.rs.school/certificate/2dyswcow))</br>
-- **March 2022 - September 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate]([https://app.rs.school/certificate/28bkk1n9](https://app.rs.school/certificate/pkyem0t4))</br>
+- **Dec 2021 - March 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/2dyswcow)</br>
+- **March 2022 - September 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/pkyem0t4)</br>
 - **September 2022 - Current time** [RS School React](https://rs.school/react/)
 ---
 ## Work Experience
