@@ -5,6 +5,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 [CV page](https://s4mm4ael.github.io/rsschool-cv/)
 
 ## Recent projects
+* [React task manager app project](https://project-management-app-sam.netlify.app/) | [source code](https://github.com/Sammily/project-management-app)
 * [RS Lang diploma project](https://rslang-tanik-sam.netlify.app/) | [source code](https://github.com/Tanik-sam/rslang)
 * [News Portal](https://s4mm4el-ts-news-migration.netlify.app/) | [source code](https://github.com/S4mm4ael/news-portal-TS-migration)
 * [Momentum](https://momentum-clone-s4mm4el.netlify.app/) | [source code](https://github.com/S4mm4ael/momentum-clone/tree/src)
