@@ -14,10 +14,11 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 * [Shelter site](https://s4mm4ael.github.io/shelter-site/shelter/pages/main/) | [source code](https://github.com/S4mm4ael/shelter-site/tree/shelter)
 * [Portfolio site](https://rolling-scopes-school.github.io/s4mm4ael-JSFEPRESCHOOL/portfolio/) | [source code](https://github.com/S4mm4ael/portfolio-site) 
 * [Eldritch deckbuilder](https://s4mm4el-eldritch-deckbuilder.netlify.app/) | [source code](https://github.com/S4mm4ael/eldritch-codejam)
+
 ---
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mm4ael&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Soft skills
