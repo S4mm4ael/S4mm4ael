@@ -18,7 +18,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 
 ---
 ## Skills
-![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/reactpic.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
+![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mm4ael&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ---
