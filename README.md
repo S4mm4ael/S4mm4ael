@@ -38,5 +38,5 @@ I'm here to get one!
 
 ---
 ## Contacts
-* Telegram: @defaultsam
+* [Telegram](https://t.me/ordinary_S4m)
 * E-mail: homer1996@gmail.com
