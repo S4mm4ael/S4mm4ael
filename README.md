@@ -2,7 +2,6 @@
 
 Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP.
 
-[CV page](https://s4mm4ael.github.io/rsschool-cv/)
 
 ## Recent projects
 * [MTG card finder](https://s4mm4el-mtg-card-finder.netlify.app/) | [source code](https://github.com/S4mm4ael/mtg-cards-finder)
