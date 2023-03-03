@@ -33,7 +33,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 ## Education
 - **Dec 2021 - March 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/2dyswcow)</br>
 - **March 2022 - September 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/pkyem0t4)</br>
-- **September 2022 - December 2022** [RS School React](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
+- **September 2022 - December 2022** [RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
 ---
 ## Work Experience
 I'm here to get one!
