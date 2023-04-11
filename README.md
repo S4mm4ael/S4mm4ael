@@ -5,6 +5,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 [CV page](https://s4mm4ael-cv.netlify.app/)
 
 ## Recent projects
+* [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
 * [MTG card finder](https://s4mm4el-mtg-card-finder.netlify.app/) | [source code](https://github.com/S4mm4ael/mtg-cards-finder)
 * [React task manager app project](https://project-management-app-sam.netlify.app/) | [source code](https://github.com/Sammily/project-management-app)
 * [RS Lang diploma project](https://rslang-tanik-sam.netlify.app/) | [source code](https://github.com/Tanik-sam/rslang)
