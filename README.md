@@ -1,6 +1,9 @@
 # Semion Krapivin 
 
-Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP.
+Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP. Currently working on  
+
+- [Tournament Assistant Web](https://github.com/S4mm4ael/tournament-assistant-web)
+- TCG Berserk Online adaptation 
 
 [CV page](https://s4mm4ael-cv.netlify.app/)
 
