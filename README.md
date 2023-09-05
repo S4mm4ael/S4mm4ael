@@ -11,6 +11,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 * [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
 * [MTG card finder](https://s4mm4el-mtg-card-finder.netlify.app/) | [source code](https://github.com/S4mm4ael/mtg-cards-finder)
 * [React task manager app project](https://project-management-app-sam.netlify.app/) | [source code](https://github.com/Sammily/project-management-app)
+* [Vue blog](https://s4mmael-simple-blog-vue.netlify.app/posts) | [source code](https://github.com/S4mm4ael/simple-blog-vue)
 * [RS Lang diploma project](https://rslang-tanik-sam.netlify.app/) | [source code](https://github.com/Tanik-sam/rslang)
 * [News Portal](https://s4mm4el-ts-news-migration.netlify.app/) | [source code](https://github.com/S4mm4ael/news-portal-TS-migration)
 * [Momentum](https://momentum-clone-s4mm4el.netlify.app/) | [source code](https://github.com/S4mm4ael/momentum-clone/tree/src)
