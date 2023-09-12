@@ -5,7 +5,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 - [Tournament Assistant Web](https://github.com/S4mm4ael/tournament-assistant-web)
 - TCG Berserk Online adaptation 
 
-[CV page](https://s4mm4ael-cv.netlify.app/)
+[CV](https://drive.google.com/file/d/1UfDfB4u2X9wOESI6Rbkph8mDFKOLJu9X/view?usp=drive_link)
 
 ## Recent projects
 * [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
