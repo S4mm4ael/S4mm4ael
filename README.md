@@ -46,5 +46,4 @@ I'm here to get one!
 
 ---
 ## Contacts
-* [Telegram](https://t.me/el_J4ckson)
 * E-mail: homer1996@gmail.com
