@@ -1,6 +1,6 @@
 # Semion Krapivin 
 
-Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a job ASAP. Currently working on  
+Hi, i'm a beginner frontend developer. Currently working on AndersenLab Laboratory as a trainee.
 
 - [Tournament Assistant Web](https://github.com/S4mm4ael/tournament-assistant-web)
 - TCG Berserk Online adaptation 
@@ -42,7 +42,7 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 - **September 2022 - December 2022** [RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
 ---
 ## Work Experience
-I'm here to get one!
+- **Dec 2021 - now** AndersenLab Laboratory
 
 ---
 ## Contacts
