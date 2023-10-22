@@ -42,7 +42,7 @@ Hi, i'm a beginner frontend developer. Currently working on AndersenLab Laborato
 - **September 2022 - December 2022** [RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
 ---
 ## Work Experience
-- **Dec 2021 - now** AndersenLab Laboratory
+- **Sep 2023 - now** AndersenLab Laboratory
 
 ---
 ## Contacts
