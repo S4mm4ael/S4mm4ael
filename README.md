@@ -24,7 +24,7 @@ Hi, i'm a beginner frontend developer. Currently working on AndersenLab Laborato
 ---
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
-![](./assets/vue.png)![](./assets/remix_.png)
+![](./assets/vue.png)![](./assets/remix.png)
 
 ![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=s4mm4ael&show_icons=true&theme=radical)
 
