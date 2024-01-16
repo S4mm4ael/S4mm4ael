@@ -4,7 +4,7 @@ Hi, i'm a beginner frontend developer. Currently working on AndersenLab Laborato
 
 
 
-[CV](https://drive.google.com/file/d/1UfDfB4u2X9wOESI6Rbkph8mDFKOLJu9X/view?usp=drive_link)
+[CV](https://drive.google.com/file/d/12Xw14DXaWoF_7h32a_wbKG4YXk38fshj/view?usp=sharing)
 
 ## Recent projects
 * [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
