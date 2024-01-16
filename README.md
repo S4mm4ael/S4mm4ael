@@ -2,12 +2,12 @@
 
 Hi, i'm a beginner frontend developer. Currently working on AndersenLab Laboratory as a trainee. Now learning React Native.
 
-- [Tournament Assistant Web](https://github.com/S4mm4ael/tournament-assistant-web)
-- TCG Berserk Online adaptation 
+
 
 [CV](https://drive.google.com/file/d/1UfDfB4u2X9wOESI6Rbkph8mDFKOLJu9X/view?usp=drive_link)
 
 ## Recent projects
+* [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
 * [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
 * [MTG card finder](https://s4mm4el-mtg-card-finder.netlify.app/) | [source code](https://github.com/S4mm4ael/mtg-cards-finder)
 * [React task manager app project](https://project-management-app-sam.netlify.app/) | [source code](https://github.com/Sammily/project-management-app)
