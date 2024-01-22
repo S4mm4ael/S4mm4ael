@@ -2,8 +2,6 @@
 
 Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
 
-
-
 [CV](https://drive.google.com/file/d/1x26Hpe8J7_pERnPWfOi9JF2QbbT8QrUD/view?usp=sharing)
 
 ## Recent projects
@@ -37,13 +35,13 @@ Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You c
 * 🚭 No bad habits
 ---
 ## Education
-- **Dec 2021 - March 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/2dyswcow)</br>
-- **March 2022 - September 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/pkyem0t4)</br>
-- **September 2022 - December 2022** [RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
+Belarusian National Technical University - Bachelor of Electrical Engineering
+[RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/2dyswcow)</br>
+[RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/pkyem0t4)</br>
+[RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
 ---
 ## Work Experience
 - **Sep 2023 - now** AndersenLab Laboratory as React developer
-
 ---
 ## Contacts
 * E-mail: homer1996@gmail.com
