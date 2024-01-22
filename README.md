@@ -4,7 +4,7 @@ Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You c
 
 
 
-[CV](https://drive.google.com/file/d/12Xw14DXaWoF_7h32a_wbKG4YXk38fshj/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1x26Hpe8J7_pERnPWfOi9JF2QbbT8QrUD/view?usp=sharing)
 
 ## Recent projects
 * [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
