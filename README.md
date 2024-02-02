@@ -29,9 +29,10 @@ Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You c
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Soft skills
+* 👾 Commitment at project and it's business values
 * ⚒️ Hard working
-* 🤝🏼 Communicable
-* 🤓 Curious
+* 🤝🏼 Team player
+* 🤓 Flexible
 * 🚭 No bad habits
 ---
 ## Work Experience
