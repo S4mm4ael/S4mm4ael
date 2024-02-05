@@ -2,8 +2,6 @@
 
 Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
 
-[CV](https://drive.google.com/file/d/1x26Hpe8J7_pERnPWfOi9JF2QbbT8QrUD/view?usp=sharing)
-
 ## Recent projects
 * [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
 * [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
