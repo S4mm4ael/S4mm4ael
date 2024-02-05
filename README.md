@@ -35,7 +35,7 @@ Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You c
 ---
 ## Work Experience
 
-* **Sep 2023 - now** AndersenLab Laboratory as React Native developer
+* **Aug 2023 - now** AndersenLab Laboratory as React Native developer
 ---
 
 ## Education ##
