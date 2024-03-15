@@ -1,6 +1,6 @@
 # Siamion Krapivin 
 
-Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory.I am also a mentor at Rolling Scopes School. 
+Hi, i'm a frontend developer 👾. Currently working on AndersenLab Laboratory. Also a mentor at the Rolling Scopes School.<br> 
 You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
 
 ## Recent projects
