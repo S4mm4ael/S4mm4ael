@@ -1,6 +1,7 @@
 # Siamion Krapivin 
 
-Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory. You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
+Hi, i'm a frontend developer. Currently working on AndersenLab Laboratory.I am also a mentor at Rolling Scopes School. 
+You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
 
 ## Recent projects
 * [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
