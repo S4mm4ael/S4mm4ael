@@ -42,10 +42,11 @@ You can see some of my old pet projects below. I hope, that i'll have more time 
 ## Education ##
 
 * Belarusian National Technical University - Bachelor of Electrical Engineering</br>
+* Belarusian National Technical University - Bachelor of Information Technology and Robotics</br>
 * [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/2dyswcow)</br>
 * [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/pkyem0t4)</br>
 * [RS School REACT 2022 Q3 (JAVASCRIPT)](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/vxzu2z25)
 ---
 
 ## Contacts
-* E-mail: homer1996@gmail.com
+* E-mail: krapivin.siamion@gmail.com
