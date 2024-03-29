@@ -36,9 +36,9 @@ You can see some of my old pet projects below. I hope, that i'll have more time 
 ---
 ## Work Experience
 
-* **11.2022 - now** AndersenLab - React/React Native developer
-* **06.2021 - 10.2022** Under NDA - React Native developer
-* **03.2020 - 05.2021** Clevertech - React developer
+* **11.2022 - now** - **AndersenLab** - React/React Native developer
+* **06.2021 - 10.2022** - **Under NDA** - React Native developer
+* **03.2020 - 05.2021** - **Clevertech** - React developer
 ---
 
 ## Education ##
