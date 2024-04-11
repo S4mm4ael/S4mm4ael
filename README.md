@@ -26,6 +26,7 @@ You can see some of my old pet projects below. I hope, that i'll have more time 
 ![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=s4mm4ael&show_icons=true&theme=radical)
 
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ## Soft skills
 * 👾 Commitment at project and it's business values
