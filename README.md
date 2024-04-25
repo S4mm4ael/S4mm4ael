@@ -33,7 +33,7 @@ You can see some of my old pet projects below. I hope, that i'll have more time 
 * ⚒️ Hard working
 * 🤝🏼 Team player
 * 🤓 Flexible
-* 🚭 No bad habits
+* 🚭 No bad habits (except of beer and Warhammer)
 ---
 ## Work Experience
 
