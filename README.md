@@ -4,6 +4,7 @@ Hi, i'm a frontend developer 👾. Currently working on AndersenLab. Mentor at t
 You can see some of my old pet projects below. I hope, that i'll have more time to create something more relevant for my current skill set 😅.
 
 ## Recent projects
+* [Sam Painting Studio](https://sam-painting-studio.vercel.app/) | [source code](https://github.com/S4mm4ael/sam-painting-studio-spa)
 * [Tournament Assistant Web](https://meme-tournament-assistant.web.app/) | [source code](https://github.com/S4mm4ael/tournament-assistant-web)
 * [Book shop](https://s4mm4ael-book-shop.netlify.app/#/books/all) | [source code](https://github.com/S4mm4ael/Book-shop)
 * [MTG card finder](https://s4mm4el-mtg-card-finder.netlify.app/) | [source code](https://github.com/S4mm4ael/mtg-cards-finder)
