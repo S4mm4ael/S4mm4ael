@@ -11,14 +11,7 @@ You can see some of my old pet projects below. I hope, that i'll have more time 
 * [React task manager app project](https://project-management-app-sam.netlify.app/) | [source code](https://github.com/Sammily/project-management-app)
 * [Vue blog](https://s4mmael-simple-blog-vue.netlify.app/) | [source code](https://github.com/S4mm4ael/simple-blog-vue)
 * [RS Lang diploma project](https://rslang-tanik-sam.netlify.app/) | [source code](https://github.com/Tanik-sam/rslang)
-* [React blog](https://s4mmael-simple-blog-react.netlify.app/) | [source code](https://github.com/S4mm4ael/simple-blog-react)
-* [Momentum](https://momentum-clone-s4mm4el.netlify.app/) | [source code](https://github.com/S4mm4ael/momentum-clone/tree/src)
-* [Virtual keyboard](https://s4mm4ael.github.io/virtual-keyboard/) | [source code](https://github.com/S4mm4ael/virtual-keyboard/tree/source)
-* [Travel site](https://rolling-scopes-school.github.io/s4mm4ael-JSFEPRESCHOOL2022Q2/travel/) | [source code](https://github.com/S4mm4ael/travel-site/tree/travel)
-* [Shelter site](https://s4mm4ael.github.io/shelter-site/shelter/pages/main/) | [source code](https://github.com/S4mm4ael/shelter-site/tree/shelter)
-* [Portfolio site](https://rolling-scopes-school.github.io/s4mm4ael-JSFEPRESCHOOL/portfolio/) | [source code](https://github.com/S4mm4ael/portfolio-site) 
-* [Eldritch deckbuilder](https://s4mm4el-eldritch-deckbuilder.netlify.app/) | [source code](https://github.com/S4mm4ael/eldritch-codejam)
-
+  
 ---
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
