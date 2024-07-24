@@ -2,7 +2,6 @@
 
 Hi, I'm a frontend developer 👾. Currently working on AndersenLab. Mentor at the Rolling Scopes School.<br> 
 
----
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
 ![](./assets/vue.png)![](./assets/remix.png)![](./assets/graphql_.png)
