@@ -7,7 +7,6 @@ Hi, I'm a frontend developer 👾. Currently working on AndersenLab. Mentor at t
 ![](./assets/vue.png)![](./assets/remix.png)![](./assets/graphql_.png)
 
 ![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=s4mm4ael&show_icons=true&theme=radical)
-
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
