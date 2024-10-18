@@ -3,13 +3,12 @@
 Hi, I'm a frontend developer 👾. Currently working on AndersenLab. Mentor at the Rolling Scopes School.<br> 
 
 ## Skills
-![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
-![](./assets/vue.png)![](./assets/remix.png)![](./assets/graphql_.png)
+![](./assets/react-native_.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png)  ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
+![](./assets/remix.png) ![](./assets/nuxt.jpeg) ![](./assets/vue.png) ![](./assets/graphql_.png) ![](./assets/html-5.png) ![](./assets/css-3.png) 
 
 ![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=s4mm4ael&show_icons=true&theme=radical)
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ## Soft skills
 * 👾 Commitment at project and it's business values
 * ⚒️ Hard working
