@@ -1,6 +1,6 @@
 # Siamion Krapivin 
 
-Hi, I'm a frontend developer 👾. Currently working on AndersenLab. Mentor at the Rolling Scopes School.<br> 
+Hi, I'm a frontend developer 👾. Currently working at INNOWISE group. Mentor at the Rolling Scopes School.<br> 
 
 ## Skills
 ![](./assets/react-native_.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png)  ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
