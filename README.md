@@ -20,7 +20,7 @@ Hi, I'm a frontend developer 👾. Currently working at INNOWISE group. Mentor a
 
 * **12.2024 - now** - **INNOWISE** - React Native/Ionic+Angular developer
 * **11.2022 - 12.2024** - **AndersenLab** - React/React Native developer
-* **06.2021 - 10.2022** - **Under NDA** - React Native developer
+* **06.2021 - 10.2022** - **Moento** - React Native developer
 * **03.2020 - 05.2021** - **Clevertech** - React developer
 ---
 
