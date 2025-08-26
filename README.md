@@ -1,10 +1,10 @@
 # Siamion Krapivin 
 
-Hi, I'm a frontend developer 👾. Currently working at INNOWISE group. Mentor at the Rolling Scopes School.<br> 
+Hi, I'm a mobile/frontend developer 👾. Currently working at INNOWISE group. Mentor at the Rolling Scopes School.<br> 
 
 ## Skills
-![](./assets/react-native_.png) ![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react.png) ![](./assets/ionic.png)  ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
-![](./assets/remix.png) ![](./assets/nuxt.jpeg) ![](./assets/vue.png) ![](./assets/graphql_.png) ![](./assets/html-5.png) ![](./assets/css-3.png) 
+![](./assets/js.png) ![](./assets/typescript.png) ![](./assets/react-native_.png) ![](./assets/expo.png) ![](./assets/react.png) ![](./assets/angular.png) ![](./assets/ionic.png) ![](./assets/capacitor.png) ![](./assets/vue.png) ![](./assets/sass.png) ![](./assets/webpack.png) ![](./assets/git.png) ![](./assets/redux.png)
+![](./assets/remix.png) ![](./assets/nuxt.jpeg)  ![](./assets/graphql_.png) ![](./assets/html-5.png) ![](./assets/css-3.png) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mm4ael&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mm4ael&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
